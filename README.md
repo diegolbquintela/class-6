@@ -34,6 +34,8 @@ git commit -m "this is a new file"
 
 #Assuming that you are currently within a Git repository that contains a file named 'README.md', write the command (or commands) that will display any uncommitted changes made to this file.
 
+git status
+
 #####
 
 #Assuming that you are currently within a Git repository that includes several commits, write the command (or commands) that will display the changes from the commit with the ID of abc123.
